@@ -3881,6 +3881,8 @@ input, select, textarea {
 
 			#menu .inner > :first-child {
 				margin-top: 2em;
+				color: black;
+				text-emphasis-color: lightgrey;
 			}
 
 			#menu .inner > :last-child {
